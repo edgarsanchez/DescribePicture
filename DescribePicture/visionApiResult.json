@@ -1,0 +1,54 @@
+﻿{
+  "tags": [
+    {
+      "name": "grass",
+      "confidence": 0.9999922513961792
+    },
+    {
+      "name": "animal",
+      "confidence": 0.99545860290527344
+    },
+    {
+      "name": "mammal",
+      "confidence": 0.99428248405456543,
+      "hint": "animal"
+    },
+    {
+      "name": "sheep",
+      "confidence": 0.99395555257797241,
+      "hint": "animal"
+    },
+    {
+      "name": "outdoor",
+      "confidence": 0.97744137048721313
+    },
+    {
+      "name": "field",
+      "confidence": 0.95790654420852661
+    },
+    {
+      "name": "llama",
+      "confidence": 0.77168935537338257,
+      "hint": "animal"
+    },
+    {
+      "name": "pasture",
+      "confidence": 0.35367679595947266
+    }
+  ],
+  "description": {
+    "tags": [ "grass", "animal", "mammal", "sheep", "outdoor", "field", "fence", "grazing", "llama", "standing", "green", "herd", "black", "farm", "fenced", "pasture", "eating", "brown", "grassy", "baby", "area", "yard", "group", "dog", "white", "woman", "man", "enclosure" ],
+    "captions": [
+      {
+        "text": "a herd of sheep standing on top of a grass covered field",
+        "confidence": 0.55033823515208835
+      }
+    ]
+  },
+  "requestId": "7080fc7e-b1b3-440d-95d3-b0700a94f13e",
+  "metadata": {
+    "width": 1875,
+    "height": 1124,
+    "format": "Png"
+  }
+}

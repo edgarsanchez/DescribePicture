@@ -1,0 +1,5 @@
+{
+    "token_type":"http://schemas.xmlsoap.org/ws/2009/11/swt-token-profile-1.0",
+    "access_token":"http%3a%2f%2fschemas.xmlsoap.org%2fws%2f2005%2f05%2fidentity%2fclaims%2fnameidentifier=AzureDayQuito2016",
+    "expires_in":"600",
+    "scope":"http://api.microsofttranslator.com"}
